@@ -22,4 +22,4 @@ npm start
 
 ### OUTPUT
 
-![output]()
+![output](https://github.com/Rahul-icoder/http-server/blob/main/output.png)
