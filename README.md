@@ -1,16 +1,22 @@
-# http-server
+# HTTP-SERVER
 access file and folder of server from any device within same wifi network.
 
-## Project Setup
+## PROJECT SETUP
 
-### Clone this repository 
 
-### Step 1
-``` npm install ```
+### STEP 1
+Clone this repository 
 
-### Step 2
-``` npm start ```
+### STEP 2
+``` 
+npm install 
+```
 
-### Output
+### STEP 3
+``` 
+npm start 
+```
+
+### OUTPUT
 
 
